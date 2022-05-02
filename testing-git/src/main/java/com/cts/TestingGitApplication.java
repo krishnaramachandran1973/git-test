@@ -13,6 +13,7 @@ public class TestingGitApplication {
 		System.out.println("Coding done by developer B once again");
 		System.out.println("Coding done by developer A again");
 		System.out.println("Coding done by developer A once again");
+		System.out.println("B code");
 		SpringApplication.run(TestingGitApplication.class, args);
 	}
 }
