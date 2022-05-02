@@ -16,6 +16,7 @@ public class TestingGitApplication {
 		System.out.println("B code");
 		
 		System.out.println("A code in sprint1");
+		System.out.println("A code done");
 		SpringApplication.run(TestingGitApplication.class, args);
 	}
 }
