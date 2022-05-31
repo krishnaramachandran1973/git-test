@@ -14,10 +14,10 @@ public class TestingGitApplication {
 		System.out.println("Coding done by developer A again");
 		System.out.println("Coding done by developer A once again");
 		System.out.println("B code");
-		
+
 		System.out.println("A code in sprint1");
-      System.out.println("A code done");		
-      System.out.println("B code done");		
-	   SpringApplication.run(TestingGitApplication.class, args);
+		System.out.println("A code done");
+		System.out.println("B code done");
+		SpringApplication.run(TestingGitApplication.class, args);
 	}
 }
